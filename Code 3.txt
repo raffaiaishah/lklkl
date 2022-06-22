@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <style>
+            div.blue{
+                border-radius: 50%;
+                height: 20px;
+                width: 20px;
+                background-color:blue;
+                border:solid 5px white;
+                position:absolute;
+                display:inline-block;
+            }
+
+
+
+            img.no1 {
+                margin-left: 300px;
+                padding:10px;
+                display:inline-block;
+                align-items: center;
+                height:300px;
+                width:650px
+            }
+
+            img.no2 {
+                display:inline-block;
+                padding:10px;
+                align-items: center;
+                height:300px;
+                width:650px
+            }
+
+            img.no3 {
+                display:inline-block;
+                padding:10px;
+                margin-left: 300px;
+                align-items: center;
+                height:300px;
+                width:650px 
+            }
+
+            img.no4 {
+                display:inline-block;
+                padding:10px;
+                align-items: center;
+                height:300px;
+                width:650px
+            }
+
+            img.no5 {
+                display:inline-block;
+                margin-left:650px;
+                padding:10px;
+                align-items: center;
+                height:300px;
+                width:650px
+            }
+
+        </style>
+
+
+
+
+
+
+        <img class="no1" src="boracay (1).jpg" alt="">
+        <div class="blue"></div>
+        <img class="no2" src="boracay (1).jpg" alt="">
+        <img class="no3" src="boracay (1).jpg" alt="">
+        <img class="no4" src="boracay (1).jpg" alt="">
+        <img class="no5" src="boracay (1).jpg" alt="">
+
+    </body>
+</html>
